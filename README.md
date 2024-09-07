@@ -12,9 +12,6 @@ Our Terraform script automates the deployment of a static website to AWS, utiliz
 
 - **Automated Infrastructure Setup**: Sets up all necessary AWS infrastructure components, including VPCs, subnets, and security groups.
 - **Website Deployment**: Downloads and deploys website files from a specified URL directly onto EC2 instances.
-- **Scalability and High Availability**: Configures Auto Scaling and Load Balancers to handle varying traffic loads and ensure website availability.
-- **Content Delivery Optimization**: Uses CloudFront to enhance content delivery speed and reduce latency for global users.
-- **Security**: Implements security groups and best practices to protect infrastructure and website.
 
 ## How It Works
 
